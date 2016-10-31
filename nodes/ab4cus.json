@@ -1,0 +1,1899 @@
+{
+  "name": "ab4cus",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 4,
+        "vendor_id": "AuthenticAMD",
+        "family": "72",
+        "model": "12289",
+        "stepping": "1",
+        "physical_id": "CPU0",
+        "model_name": "AMD64 Family 21 Model 48 Stepping 1",
+        "mhz": "1900",
+        "cache_size": "4096 KB"
+      },
+      "total": 4,
+      "cores": 4,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 982387781,
+        "kb_available": 419601559,
+        "kb_used": 562786222,
+        "percent_used": 57,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": "Acer"
+      },
+      "D:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "D:",
+        "volume_name": null
+      },
+      "E:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "E:",
+        "volume_name": null
+      },
+      "F:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "F:",
+        "volume_name": null
+      },
+      "G:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "G:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume2",
+        "build_number": "14393",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Home",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "ARQUITECTIT",
+        "current_time_zone": -240,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "3942780",
+        "free_space_in_paging_files": "4916888",
+        "free_virtual_memory": "6533156",
+        "install_date": "20160922044401.000000-240",
+        "large_system_cache": null,
+        "last_boot_up_time": "20161025183631.852539-240",
+        "local_date_time": "20161025192929.807000-240",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Home|C:\\WINDOWS|\\Device\\Harddisk0\\Partition4",
+        "number_of_licensed_users": null,
+        "number_of_processes": 170,
+        "number_of_users": 2,
+        "operating_system_sku": 101,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 768,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "acer main",
+        "serial_number": "00326-10000-00000-AA896",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "4980736",
+        "status": "OK",
+        "suite_mask": 784,
+        "system_device": "\\Device\\HarddiskVolume4",
+        "system_directory": "C:\\WINDOWS\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "16460040",
+        "total_visible_memory_size": "11479304",
+        "version": "10.0.14393",
+        "windows_directory": "C:\\WINDOWS"
+      },
+      "name": "Microsoft Windows 10 Home",
+      "release": "10.0.14393",
+      "version": "10.0.14393  Build 14393",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": null,
+        "bootup_state": "Normal boot",
+        "caption": "ARQUITECTIT",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": null,
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": -240,
+        "daylight_in_effect": false,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "ArquitectIT",
+        "domain": "SOAINT",
+        "domain_role": 0,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": false,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Acer",
+        "model": "Aspire E5-551",
+        "name": "ARQUITECTIT",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "Acer System",
+          "String2 for Original Equipment Manufacturer",
+          "String3 for Original Equipment Manufacturer",
+          "String4 for Original Equipment Manufacturer",
+          "String5 for Original Equipment Manufacturer"
+        ],
+        "part_of_domain": false,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "pc_system_type_ex": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "acer main",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "Print",
+          "NT",
+          "Potential_Browser",
+          "Master_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "Kaveri System",
+        "system_sku_number": "Aspire E5-551_0864_V1.08",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "11754807296",
+        "user_name": "ARQUITECTIT\\SoaintWin864Bts634",
+        "wake_up_type": 6,
+        "workgroup": "SOAINT"
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "4980736kB",
+        "free": "4916888kB"
+      },
+      "total": "11479304kB",
+      "free": "3939876kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x1c": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000000] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter #2",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "cantv.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ArquitectIT",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 0,
+            "interface_index": 28,
+            "ip_address": [
+              "192.168.99.1",
+              "fe80::e1f9:d10b:ab96:53aa"
+            ],
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:1C",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{B1F098AE-7D5C-4AAC-B9A8-28B841BAA97D}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000000] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "0",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{B1F098AE-7D5C-4AAC-B9A8-28B841BAA97D}",
+            "index": 0,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 28,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:1C",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter #2",
+            "net_connection_id": "VirtualBox Host-Only Network #2",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0002",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "ARQUITECTIT",
+            "time_of_last_reset": "20161025183631.852539-240"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.99.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.99.255",
+              "family": "inet"
+            },
+            "fe80::e1f9:d10b:ab96:53aa": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:1C": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.99.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x7": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000002] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "cantv.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ArquitectIT",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 2,
+            "interface_index": 7,
+            "ip_address": [
+              "192.168.56.1",
+              "fe80::94aa:20cb:1298:22b4"
+            ],
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:07",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{25337278-B523-418B-8CA6-BCBAF0BB0227}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000002] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "2",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{25337278-B523-418B-8CA6-BCBAF0BB0227}",
+            "index": 2,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 7,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:07",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter",
+            "net_connection_id": "VirtualBox Host-Only Network",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "ARQUITECTIT",
+            "time_of_last_reset": "20161025183631.852539-240"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.56.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.56.255",
+              "family": "inet"
+            },
+            "fe80::94aa:20cb:1298:22b4": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:07": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.56.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x4": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000006] Qualcomm Atheros AR956x Wireless Network Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "10.0.1.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Qualcomm Atheros AR956x Wireless Network Adapter",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20161124183723.000000-240",
+            "dhcp_lease_obtained": "20161025183723.000000-240",
+            "dhcp_server": "10.0.1.1",
+            "dns_domain": "cantv.net",
+            "dns_domain_suffix_search_order": [
+              "cantv.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ArquitectIT",
+            "dns_server_search_order": [
+              "10.0.1.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 6,
+            "interface_index": 4,
+            "ip_address": [
+              "10.0.1.41"
+            ],
+            "ip_connection_metric": 55,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "5C:93:A2:F5:D7:04",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "athr",
+            "setting_id": "{18183E86-6D83-414B-A3BD-C18EA56A48F2}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000006] Qualcomm Atheros AR956x Wireless Network Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Qualcomm Atheros AR956x Wireless Network Adapter",
+            "device_id": "6",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{18183E86-6D83-414B-A3BD-C18EA56A48F2}",
+            "index": 6,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 4,
+            "last_error_code": null,
+            "mac_address": "5C:93:A2:F5:D7:04",
+            "manufacturer": "Qualcomm Atheros Communications Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Qualcomm Atheros AR956x Wireless Network Adapter",
+            "net_connection_id": "Wi-Fi",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_168C&DEV_0036&SUBSYS_064211AD&REV_01\\4&3E29E5B&0&001A",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Qualcomm Atheros AR956x Wireless Network Adapter",
+            "service_name": "athr",
+            "speed": "97500000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "ARQUITECTIT",
+            "time_of_last_reset": "20161025183631.852539-240"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.0.1.41": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "10.0.1.255",
+              "family": "inet"
+            },
+            "5C:93:A2:F5:D7:04": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.0.1.1": "00:23:12:f7:3d:5b",
+            "10.0.1.8": "28:c2:dd:e9:c0:ff",
+            "10.0.1.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "224.0.0.253": "01:00:5e:00:00:fd",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x9": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000007] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter #3",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "cantv.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ArquitectIT",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 7,
+            "interface_index": 9,
+            "ip_address": [
+              "192.168.1.1",
+              "fe80::3ca2:2027:ab98:5ea"
+            ],
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:09",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{2D32DFA2-A549-441F-9453-E7C63800D551}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000007] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "7",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{2D32DFA2-A549-441F-9453-E7C63800D551}",
+            "index": 7,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 9,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:09",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter #3",
+            "net_connection_id": "VirtualBox Host-Only Network #3",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0004",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "ARQUITECTIT",
+            "time_of_last_reset": "20161025183631.852539-240"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.1.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.1.255",
+              "family": "inet"
+            },
+            "fe80::3ca2:2027:ab98:5ea": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:09": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.1.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x5": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000031] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter #4",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "cantv.net"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ArquitectIT",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 31,
+            "interface_index": 5,
+            "ip_address": [
+              "192.168.14.1",
+              "fe80::45c6:ea46:adb5:ba33"
+            ],
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:05",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{1CD0A495-823B-4CCE-B8CC-F831A545DDC9}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000031] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "31",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{1CD0A495-823B-4CCE-B8CC-F831A545DDC9}",
+            "index": 31,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 5,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:05",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter #4",
+            "net_connection_id": "VirtualBox Host-Only Network #4",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0005",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "ARQUITECTIT",
+            "time_of_last_reset": "20161025183631.852539-240"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.14.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.14.255",
+              "family": "inet"
+            },
+            "fe80::45c6:ea46:adb5:ba33": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:05": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.14.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "10.0.1.1",
+      "default_interface": "0x4"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "10.0.1.41",
+    "macaddress": "5C:93:A2:F5:D7:04",
+    "ip6address": "fe80::3ca2:2027:ab98:5ea",
+    "os": "windows",
+    "os_version": "10.0.14393",
+    "platform": "windows",
+    "platform_version": "10.0.14393",
+    "platform_family": "windows",
+    "uptime_seconds": 3220,
+    "uptime": "53 minutes 40 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_101",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_101-b13"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) Client VM",
+          "build": "25.101-b13, mixed mode, sharing"
+        }
+      },
+      "perl": {
+        "version": "5.22.1",
+        "archname": "x86_64-msys-thread-multi"
+      },
+      "powershell": {
+        "version": "5.1.14393.206",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.14393.206",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0..."
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.3.0",
+        "release_date": "2015-12-25",
+        "target": "i386-pc-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "pc",
+        "target_os": "mingw32",
+        "host": "i686-pc-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "pc",
+        "bin_dir": "C:/Ruby23/bin",
+        "ruby_bin": "C:/Ruby23/bin/ruby",
+        "gems_dir": "C:/Ruby23/lib/ruby/gems/2.3.0",
+        "gem_bin": "C:/Ruby23/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.10.24",
+        "chef_root": "C:/opscode/chef/embedded/lib/ruby/gems/2.1.0/gems/chef-12.10.24-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.15.1",
+        "ohai_root": "C:/opscode/chef/embedded/lib/ruby/gems/2.1.0/gems/ohai-8.15.1/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "ArquitectIT",
+    "machinename": "ARQUITECTIT",
+    "fqdn": "ArquitectIT",
+    "domain": null,
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1477438228.791902,
+    "packages": {
+      "7-Zip 16.02 (x64)": {
+        "version": "16.02",
+        "publisher": "Igor Pavlov"
+      },
+      "DAEMON Tools Lite": {
+        "version": "10.3.0.0152",
+        "publisher": "Disc Soft Ltd"
+      },
+      "Ext2Fsd 0.63": {
+        "version": "0.63",
+        "publisher": "Matt Wu",
+        "installdate": "20160330"
+      },
+      "Git version 2.8.0": {
+        "version": "2.8.0",
+        "publisher": "The Git Development Community",
+        "installdate": "20160401"
+      },
+      "KMSpico v9.2.1 Beta": {
+        "version": "9.2.1 Beta",
+        "installdate": "20160330"
+      },
+      "Microsoft Visual J# 2.0 Redistributable Package - SE (x64)": {
+        "version": "2.0.50728",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151020"
+      },
+      "Microsoft Office Professional Plus 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Project Professional 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Visio Professional 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Array SSL VPN": {
+        "version": "9.3.0.0",
+        "publisher": "Array Networks"
+      },
+      "Sublime Text Build 3103": {
+        "publisher": "Sublime HQ Pty Ltd",
+        "installdate": "20160316"
+      },
+      "TeamSpeak 3 Client": {
+        "version": "3.0.19",
+        "publisher": "TeamSpeak Systems GmbH"
+      },
+      "TigerVNC 64-bit 1.6.0 ()": {
+        "version": "1.6.0",
+        "publisher": "TigerVNC project",
+        "installdate": "20160425"
+      },
+      "WinRAR 5.40 (64-bit)": {
+        "version": "5.40.0",
+        "publisher": "win.rar GmbH"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.56336",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160401"
+      },
+      "7-Zip 16.04 (x64 edition)": {
+        "version": "16.04.00.0",
+        "publisher": "Igor Pavlov",
+        "installdate": "20161017"
+      },
+      "Git LFS version 1.4.4": {
+        "version": "1.4.4",
+        "publisher": "GitHub, Inc",
+        "installdate": "20161025"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140725"
+      },
+      "AMD Accelerated Video Transcoding": {
+        "version": "13.30.100.40402",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151020"
+      },
+      "Cisco Systems VPN Client 5.0.07.0440": {
+        "version": "5.0.7",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20160705"
+      },
+      "Java SE Development Kit 7 Update 79 (64-bit)": {
+        "version": "1.7.0.790",
+        "publisher": "Oracle",
+        "installdate": "20151120"
+      },
+      "Java SE Development Kit 8 Update 60 (64-bit)": {
+        "version": "8.0.600.27",
+        "publisher": "Oracle Corporation",
+        "installdate": "20150924"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "Microsoft Office 2010 Service Pack 1 (SP1)": {
+        "publisher": "Microsoft"
+      },
+      "Microsoft Office Access MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Excel MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office PowerPoint MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Publisher MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Outlook MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Word MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (Catalan) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (English) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (French) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (Portuguese (Brazil)) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (Basque) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (Galician) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proof (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Proofing (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Office 32-bit Components 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Shared 32-bit MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office InfoPath MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Visio MUI (Spanish) 2010": {
+        "version": "14.0.4763.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Shared MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office OneNote MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Microsoft Office Project MUI (Spanish) 2010": {
+        "version": "14.0.4763.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151215"
+      },
+      "Microsoft Office Groove MUI (Spanish) 2010": {
+        "version": "14.0.6029.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20150901"
+      },
+      "Eines de correcció del Microsoft Office 2013: català": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Service Pack 1 for Microsoft Visio 2013 (KB2817443) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Office Proofing Tools 2013 - English": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Outils de vérification linguistique 2013 de Microsoft Office - Français": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Revisores de Texto do Microsoft Office 2013 – Português do Brasil": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office zuzenketa-tresnak 2013 - Euskara": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Ferramentas de verificación de Microsoft Office 2013 - Galego": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office Proofing Tools 2013 - Español": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office Proofing (Spanish) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Service Pack 1 for Microsoft Project 2013 (KB2817433) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Visio MUI (Spanish) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office Shared MUI (Spanish) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Project MUI (Spanish) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office 32-bit Components 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office Shared 32-bit MUI (Spanish) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Microsoft Office OSM MUI (Spanish) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160330"
+      },
+      "Oracle VM VirtualBox 5.0.28": {
+        "version": "5.0.28",
+        "publisher": "Oracle Corporation",
+        "installdate": "20161025"
+      },
+      "Chef Client v12.10.24": {
+        "version": "12.10.24.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20160522"
+      },
+      "SketchUp 2016": {
+        "version": "16.1.1449",
+        "publisher": "Trimble Navigation Limited",
+        "installdate": "20161001"
+      },
+      "AMD Catalyst Install Manager": {
+        "version": "8.0.916.0",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727": {
+        "version": "11.0.50727",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "Qualcomm Atheros Bluetooth Suite (64)": {
+        "version": "8.0.1.318",
+        "publisher": "Qualcomm Atheros Communications",
+        "installdate": "20141025"
+      },
+      "ccc-utility64": {
+        "version": "2014.0402.434.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727": {
+        "version": "11.0.50727",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030": {
+        "version": "11.0.61030",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140725"
+      },
+      "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319": {
+        "version": "10.0.30319",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "Docker Toolbox version 1.10.3": {
+        "version": "1.10.3",
+        "publisher": "Docker",
+        "installdate": "20160401"
+      },
+      "Adobe AIR": {
+        "version": "23.0.0.257",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20161017"
+      },
+      "Avast Free Antivirus": {
+        "version": "12.3.2280",
+        "publisher": "AVAST Software"
+      },
+      "Balsamiq Mockups 3": {
+        "version": "3.4.5",
+        "publisher": "Balsamiq SRL",
+        "installdate": "20160909"
+      },
+      "Battle.net": {
+        "publisher": "Blizzard Entertainment"
+      },
+      "Cisco AnyConnect Secure Mobility Client ": {
+        "version": "3.1.05187",
+        "publisher": "Cisco Systems, Inc."
+      },
+      "Dia (remove only)": {
+
+      },
+      "FileZilla Client 3.21.0": {
+        "version": "3.21.0",
+        "publisher": "Tim Kosse"
+      },
+      "Google Chrome": {
+        "version": "54.0.2840.71",
+        "publisher": "Google Inc.",
+        "installdate": "20150901"
+      },
+      "Heroes of the Storm": {
+        "publisher": "Blizzard Entertainment"
+      },
+      "Huawei Conexion a internet": {
+        "version": "11.012.04.09.137",
+        "publisher": "Huawei Technologies Co.,Ltd"
+      },
+      "HUAWEI DataCard Driver 4.05.00.00": {
+        "version": "4.05.00.00",
+        "publisher": "Huawei technologies Co., Ltd."
+      },
+      "CyberLink PhotoDirector 3": {
+        "version": "3.0.1.4917",
+        "publisher": "CyberLink Corp.",
+        "installdate": "20140725"
+      },
+      "CyberLink PowerDirector 10": {
+        "version": "10.0.0.4220",
+        "publisher": "CyberLink Corp.",
+        "installdate": "20140725"
+      },
+      "JXplorer": {
+        "version": "3.3.1.2",
+        "publisher": "JXplorer Open Source Project",
+        "installdate": 1469475498
+      },
+      "MinerGate": {
+        "version": "6.6",
+        "publisher": "Minergate Inc"
+      },
+      "Escritorio movistar Latam": {
+        "publisher": "Escritorio movistar Latam"
+      },
+      "Mozilla Firefox 49.0.1 (x86 es-ES)": {
+        "version": "49.0.1",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "49.0.1.6109",
+        "publisher": "Mozilla"
+      },
+      "Notepad++": {
+        "version": "6.9.2",
+        "publisher": "Notepad++ Team"
+      },
+      "Opera Stable 40.0.2308.90": {
+        "version": "40.0.2308.90",
+        "publisher": "Opera Software"
+      },
+      "Planner (remove only)": {
+
+      },
+      "Popcorn Time": {
+        "version": "5.5.1.0",
+        "publisher": "Popcorn Time",
+        "installdate": "20160828"
+      },
+      "PrimoPDF -- brought to you by Nitro PDF Software": {
+        "version": "5",
+        "publisher": "Nitro PDF Software"
+      },
+      "PuTTY release 0.66": {
+        "version": "0.66",
+        "publisher": "Simon Tatham",
+        "installdate": "20151110"
+      },
+      "SafeZone Stable 1.51.2220.62": {
+        "version": "1.51.2220.62",
+        "publisher": "Avast Software"
+      },
+      "SourceTree": {
+        "version": "1.9.6.1",
+        "publisher": "Atlassian",
+        "installdate": "20160828"
+      },
+      "StarCraft II": {
+        "publisher": "Blizzard Entertainment"
+      },
+      "TeamViewer 11": {
+        "version": "11.0.66695",
+        "publisher": "TeamViewer"
+      },
+      "WinPcap 4.1.3": {
+        "version": "4.1.0.2980",
+        "publisher": "Riverbed Technology, Inc."
+      },
+      "CCC Help French": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Oracle Document Capture": {
+        "version": "10.1.351",
+        "publisher": "Oracle, Inc.",
+        "installdate": "20160415"
+      },
+      "CCC Help Italian": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Turkish": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Greek": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "AMD Catalyst Control Center": {
+        "version": "2014.0402.434.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23506": {
+        "version": "14.0.23506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160502"
+      },
+      "CCC Help Norwegian": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727": {
+        "version": "11.0.50727.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319": {
+        "version": "10.0.30319",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140725"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140725"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727": {
+        "version": "11.0.50727.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23506": {
+        "version": "14.0.23506.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "CCC Help Japanese": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Java 8 Update 101": {
+        "version": "8.0.1010.13",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160730"
+      },
+      "OEM Application Profile": {
+        "version": "1.00.0000",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Qualcomm Atheros WLAN and Bluetooth Client Installation Program": {
+        "version": "12.29",
+        "publisher": "Qualcomm Atheros",
+        "installdate": "20141025"
+      },
+      "Nero 7 Ultra Edition": {
+        "version": "7.02.8631",
+        "publisher": "Nero AG",
+        "installdate": "20160930"
+      },
+      "Foxit PhantomPDF": {
+        "version": "7.0.49.127",
+        "publisher": "Foxit Software Inc.",
+        "installdate": "20150916"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727": {
+        "version": "11.0.50727",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "McAfee WebAdvisor": {
+        "version": "4.0.279",
+        "publisher": "McAfee, Inc."
+      },
+      "CCC Help Chinese Traditional": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.101.13",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160730"
+      },
+      "CCC Help Thai": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Snagit 12": {
+        "version": "12.4.1.3036",
+        "publisher": "TechSmith Corporation"
+      },
+      "CCC Help Czech": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Russian": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Polish": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "neroxml": {
+        "version": "1.0.0",
+        "publisher": "Nero AG",
+        "installdate": "20160930"
+      },
+      "Realtek Card Reader": {
+        "version": "6.3.9600.21250",
+        "publisher": "Realtek Semiconductor Corp.",
+        "installdate": "20141025"
+      },
+      "Google Update Helper": {
+        "version": "1.3.31.5",
+        "publisher": "Google Inc.",
+        "installdate": "20160729"
+      },
+      "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23506": {
+        "version": "14.0.23506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160502"
+      },
+      "Citrix Online Launcher": {
+        "version": "1.0.393",
+        "publisher": "Citrix",
+        "installdate": "20151126"
+      },
+      "Microsoft Visual C++ 2005 Redistributable": {
+        "version": "8.0.59193",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140725"
+      },
+      "Catalyst Control Center Graphics Previews Common": {
+        "version": "2014.0402.434.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Hungarian": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Realtek Ethernet Controller Driver": {
+        "version": "8.20.815.2013",
+        "publisher": "Realtek",
+        "installdate": "20141025"
+      },
+      "Microsoft Office": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "CCC Help Swedish": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "MobaXterm": {
+        "version": "8.5.0.0",
+        "publisher": "Mobatek",
+        "installdate": "20151221"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140725"
+      },
+      "CCC Help German": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Adobe Refresh Manager": {
+        "version": "1.8.0",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20161007"
+      },
+      "Adobe Acrobat XI Pro": {
+        "version": "11.0.16",
+        "publisher": "Adobe Systems",
+        "installdate": "20160625"
+      },
+      "Adobe Acrobat Reader DC - Español": {
+        "version": "15.020.20039",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20161012"
+      },
+      "CCC Help Korean": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Catalyst Control Center Localization All": {
+        "version": "2014.0402.434.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Portuguese": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Chinese Standard": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help English": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Cisco AnyConnect Secure Mobility Client": {
+        "version": "3.1.05187",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20160331"
+      },
+      "Win32DiskImager version 0.9.5": {
+        "version": "0.9.5",
+        "publisher": "ImageWriter Developers",
+        "installdate": "20161002"
+      },
+      "CCC Help Finnish": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030": {
+        "version": "11.0.61030.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Windows 10 Upgrade Assistant": {
+        "version": "1.4.9200.17332",
+        "publisher": "Microsoft Corporation"
+      },
+      "Vagrant": {
+        "version": "1.8.1",
+        "publisher": "HashiCorp",
+        "installdate": "20160522"
+      },
+      "Grabador de Pantalla Pro de Apowersoft V2.0.8": {
+        "version": "2.0.8",
+        "publisher": "APOWERSOFT LIMITED",
+        "installdate": "20151026"
+      },
+      "CCC Help Danish": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Catalyst Control Center InstallProxy": {
+        "version": "2014.0402.434.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Realtek High Definition Audio Driver": {
+        "version": "6.0.1.7218",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "CCC Help Dutch": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "CCC Help Spanish": {
+        "version": "2014.0402.0433.6267",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      },
+      "Google Talk Plugin": {
+        "version": "5.41.3.0",
+        "publisher": "Google",
+        "installdate": "20151216"
+      },
+      "Skype™ 7.29": {
+        "version": "7.29.102",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20161022"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727": {
+        "version": "11.0.50727",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20141025"
+      },
+      "Catalyst Control Center - Branding": {
+        "version": "1.00.0000",
+        "publisher": "Advanced Micro Devices, Inc.",
+        "installdate": "20141025"
+      }
+    },
+    "root_group": "Administrators",
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
